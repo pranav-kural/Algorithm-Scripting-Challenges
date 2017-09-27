@@ -1,2 +1,2 @@
-# Algorithm-Scripting-Challenges
-FreeCodeCamp Basic Algorithm Scripting Challenges Solutions
+# FreeCodeCamp Alogrithm Challenges
+FreeCodeCamp Basic & Intermediate Algorithm Scripting Challenges Solutions
