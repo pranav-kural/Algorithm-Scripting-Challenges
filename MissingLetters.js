@@ -10,7 +10,6 @@ function fearNotLetter(str) {
     if (str[i] !== String.fromCharCode(++start))
       return String.fromCharCode(start);
   }
-  
   return undefined;
 }
 
