@@ -19,6 +19,8 @@ function whatIsInAName(collection, source) {
       flag.push(Object.keys(obj).includes(key) && obj[key] === source[key]);
     });
     
+    /* all elements of the flag[] will be 'true' only if each of the key and value pair in the 
+    source object matched with a corresponding key and value pair in the obj object */
     if(!flag.includes(false))
       arr.push(obj);
   });
