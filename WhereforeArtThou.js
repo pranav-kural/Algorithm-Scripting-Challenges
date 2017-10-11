@@ -10,7 +10,7 @@ function whatIsInAName(collection, source) {
   
   var arr = [];
   
-  collection.map((obj) => {
+  collection.forEach((obj) => {
     let flag = [];
     
     Object.keys(source).forEach((key) => {
